@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Budget Manager/task" />
+            <option value="$PROJECT_DIR$/Problems/Account" />
+            <option value="$PROJECT_DIR$/Problems/Bank account" />
+            <option value="$PROJECT_DIR$/Problems/Binary search" />
+            <option value="$PROJECT_DIR$/Problems/Classes for Hospital" />
+            <option value="$PROJECT_DIR$/Problems/Complex" />
+            <option value="$PROJECT_DIR$/Problems/Creating instances" />
+            <option value="$PROJECT_DIR$/Problems/Employee" />
+            <option value="$PROJECT_DIR$/Problems/Fix the non-compiled hierarchy" />
+            <option value="$PROJECT_DIR$/Problems/Getting the fullname" />
+            <option value="$PROJECT_DIR$/Problems/Movie" />
+            <option value="$PROJECT_DIR$/Problems/Overloading methods" />
+            <option value="$PROJECT_DIR$/Problems/Print" />
+            <option value="$PROJECT_DIR$/Problems/Project constants and methods" />
+            <option value="$PROJECT_DIR$/Problems/Publication and its subclasses" />
+            <option value="$PROJECT_DIR$/Problems/Publications" />
+            <option value="$PROJECT_DIR$/Problems/Saying animals" />
+            <option value="$PROJECT_DIR$/Problems/Sorting arrays" />
+            <option value="$PROJECT_DIR$/Problems/Time" />
+            <option value="$PROJECT_DIR$/Problems/Too many cats" />
+            <option value="$PROJECT_DIR$/Topics/Bubble sort in Java/Descending sorting swaps" />
+            <option value="$PROJECT_DIR$/Topics/Bubble sort in Java/Swaps" />
+            <option value="$PROJECT_DIR$/Topics/Bubble sort in Java/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Converting and multiplying" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/String to double conversion" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Boxes are not just objects_" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Correct the usage of non-generic class" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Initialize an object of a generic class" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Interface/Account Service" />
+            <option value="$PROJECT_DIR$/Topics/Interface/Area of a circle" />
+            <option value="$PROJECT_DIR$/Topics/Interface/Compact strings with AsciiCharSequence" />
+            <option value="$PROJECT_DIR$/Topics/Interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Strategy/Max and Min" />
+            <option value="$PROJECT_DIR$/Topics/Strategy/Pick your team" />
+            <option value="$PROJECT_DIR$/Topics/Strategy/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Collections Framework overview/Blacklist" />
+            <option value="$PROJECT_DIR$/Topics/The Collections Framework overview/Squares list" />
+            <option value="$PROJECT_DIR$/Topics/The Collections Framework overview/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Backward indexes" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Greek letters" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/The longest string in the list" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Creating a map" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Modifying a map" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Tricky sub-maps" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Creating a set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Removing duplicates and sorting" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Symmetric difference" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
